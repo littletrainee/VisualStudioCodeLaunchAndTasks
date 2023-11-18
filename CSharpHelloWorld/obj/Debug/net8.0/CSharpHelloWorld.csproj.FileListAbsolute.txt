@@ -1,0 +1,14 @@
+H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\bin\Debug\net8.0\CSharpHelloWorld.exe
+H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\bin\Debug\net8.0\CSharpHelloWorld.deps.json
+H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\bin\Debug\net8.0\CSharpHelloWorld.runtimeconfig.json
+H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\bin\Debug\net8.0\CSharpHelloWorld.dll
+H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\bin\Debug\net8.0\CSharpHelloWorld.pdb
+H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\obj\Debug\net8.0\CSharpHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\obj\Debug\net8.0\CSharpHelloWorld.AssemblyInfoInputs.cache
+H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\obj\Debug\net8.0\CSharpHelloWorld.AssemblyInfo.cs
+H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\obj\Debug\net8.0\CSharpHelloWorld.csproj.CoreCompileInputs.cache
+H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\obj\Debug\net8.0\CSharpHelloWorld.dll
+H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\obj\Debug\net8.0\refint\CSharpHelloWorld.dll
+H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\obj\Debug\net8.0\CSharpHelloWorld.pdb
+H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\obj\Debug\net8.0\CSharpHelloWorld.genruntimeconfig.cache
+H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\obj\Debug\net8.0\ref\CSharpHelloWorld.dll

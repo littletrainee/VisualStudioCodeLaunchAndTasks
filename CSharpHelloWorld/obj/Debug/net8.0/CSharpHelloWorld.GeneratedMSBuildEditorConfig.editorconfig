@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CSharpHelloWorld
-build_property.ProjectDir = H:\Dropbox\VisualStudioCodeSetting\CSharpHelloWorld\
+build_property.ProjectDir = D:\Documents\git\VisualStudioCodeLaunchAndTasks\CSharpHelloWorld\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Dropbox\\VisualStudioCodeSetting\\CSharpHelloWorld\\CSharpHelloWorld.csproj": {}
+    "D:\\Documents\\git\\VisualStudioCodeLaunchAndTasks\\CSharpHelloWorld\\CSharpHelloWorld.csproj": {}
   },
   "projects": {
-    "H:\\Dropbox\\VisualStudioCodeSetting\\CSharpHelloWorld\\CSharpHelloWorld.csproj": {
+    "D:\\Documents\\git\\VisualStudioCodeLaunchAndTasks\\CSharpHelloWorld\\CSharpHelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Dropbox\\VisualStudioCodeSetting\\CSharpHelloWorld\\CSharpHelloWorld.csproj",
+        "projectUniqueName": "D:\\Documents\\git\\VisualStudioCodeLaunchAndTasks\\CSharpHelloWorld\\CSharpHelloWorld.csproj",
         "projectName": "CSharpHelloWorld",
-        "projectPath": "H:\\Dropbox\\VisualStudioCodeSetting\\CSharpHelloWorld\\CSharpHelloWorld.csproj",
-        "packagesPath": "C:\\Users\\arech\\.nuget\\packages\\",
-        "outputPath": "H:\\Dropbox\\VisualStudioCodeSetting\\CSharpHelloWorld\\obj\\",
+        "projectPath": "D:\\Documents\\git\\VisualStudioCodeLaunchAndTasks\\CSharpHelloWorld\\CSharpHelloWorld.csproj",
+        "packagesPath": "C:\\Users\\Luke\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\git\\VisualStudioCodeLaunchAndTasks\\CSharpHelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arech\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Luke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
